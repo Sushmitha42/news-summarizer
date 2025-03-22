@@ -1,9 +1,12 @@
-streamlit
+streamlit>=1.30
 beautifulsoup4
 requests
 textblob
-transformers
-torch
+transformers>=4.38
+torch>=2.1
 gtts
 keybert
 scikit-learn
+sentence-transformers
+matplotlib
+wordcloud
