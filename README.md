@@ -1,6 +1,6 @@
 ## Model Download
 
-🔗 [Download the models folder here (Google Drive)](https://drive.google.com/drive/folders/1GPTc15Cmd95bjQas-K1OP35sQrl4r3fz?usp=sharing)
+🔗 [Download the models folder here (Google Drive)](https://drive.google.com/file/d/1aIiQUrPibrsvjLucSgePd2tEsk3DA0g2/view?usp=drive_link)
 
 1. Download and extract the models folder into your project directory.
 2. Ensure the folder structure looks like:
